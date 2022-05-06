@@ -1,6 +1,7 @@
 # AstroGallery
 
 Gallaxies and Stars Collection React App
+<img src="https://github.com/samadon1/AstroGallery/blob/main/image.png" height="60" width="60" >
 
 ## Available Scripts
 
