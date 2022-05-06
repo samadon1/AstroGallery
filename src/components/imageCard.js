@@ -1,7 +1,7 @@
 import React from "react";
 
 function ImageCard(props) {
-    const tags = props.image.tags.split();
+    // const tags = props.image.tags.split();
 
     
   return (
